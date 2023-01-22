@@ -1,0 +1,5 @@
+Declare a function that takes two numbers (x, y) as parameters
+Keep record of a total
+Create a loop that iterates by 1, starting with number x and ending at number y
+In each iteration, add the current number to the total
+When there are no more numbers in the loop, return the total
