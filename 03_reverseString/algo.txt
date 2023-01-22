@@ -1,0 +1,8 @@
+Initialize a function that takes a string for a parameter
+Create a variable to store an empty string
+Loop through the given string starting from the last character and iterating down to the first character
+(begin iteration at the last index of the given string)
+(end loop when iterations left is greater or equal to 0)
+(decrement number by 1)
+Add the current iteration's character to empty string variable
+Return the variable string
