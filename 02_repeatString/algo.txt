@@ -1,0 +1,5 @@
+Initialize function that accepts two parameters, one for a string and one for a number
+Store an empty string into a variable
+Make a loop that iterates the given number of times
+With each iteration, add the given string to the created variable string
+Return the variable string
