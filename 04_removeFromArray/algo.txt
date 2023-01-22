@@ -1,0 +1,6 @@
+Initialize function that takes an array (Array X) and one or more numbers (Array Y)
+For each number in Array Y do this:
+Loop through each number in Array X
+If the current number in Array X matches Array Y:
+Remove the current number in Array X
+Once finished going through Array Y, return Array X
