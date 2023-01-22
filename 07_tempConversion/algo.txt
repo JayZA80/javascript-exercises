@@ -1,0 +1,17 @@
+Declare a function to round a number to the tenth decimal
+Round the product of given number times 10 to nearest integer
+Divide the rounded number by 10
+Return the number
+
+Declare a function (F to C) that takes a number (x) as a parameter
+Subtract 32 from number x in a paranthesis
+Divide 5 by 9 in a paranthesis
+Multiply the result of the subtraction operation (where x is) and the division operation
+Execute rounding function on x
+Return x
+
+Declare a function (C to F) that takes a number (x) as a parameter
+Divide 9 by 5
+Multiply x by number from division operation
+Add 32 to x
+Return x
