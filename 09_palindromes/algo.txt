@@ -1,0 +1,13 @@
+(To remove special characters)
+Replace all special characters with empty space using a Regular Expression that only takes letters and numbers
+Return result in a variable
+
+(To check for palindromes)
+Write a function that takes a string as an argument
+Remove special characters from string
+Create a list from the string
+Reverse the list
+Join the list items together
+Check if the string and the joined list are the same
+Return true if they're the same
+Return false if they aren't
