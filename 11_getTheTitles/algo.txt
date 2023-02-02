@@ -1,0 +1,4 @@
+Write a function that takes a list as a parameter
+Make a new list from the old list by running a function on each list item
+Get the item's title
+Return the created list
