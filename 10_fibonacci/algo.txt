@@ -1,0 +1,8 @@
+Write a function that takes a number (x) as a parameter
+Create a list of numbers to store the fibonacci numbers
+- We know the first two numbers are 0 and 1
+Add the first two numbers into the list
+Loop through the list x amount of times starting with item 2
+Get the sum of current number (item 2) and the item behind it (item 1)
+Add the sum to the list
+Return the xth number in the list
